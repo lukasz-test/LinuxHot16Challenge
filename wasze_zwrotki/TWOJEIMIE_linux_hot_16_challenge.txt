@@ -5,7 +5,7 @@
 
 # 1. komenda
 <<<<<<< HEAD
-# Opis... - poprawiam33333333.
+# Opis... - poprawiam333.
 =======
 # Opis... - poprawiam33333333.
 >>>>>>> 5a9f25a35031e6035f72afef3e8ec05cd35fecac
