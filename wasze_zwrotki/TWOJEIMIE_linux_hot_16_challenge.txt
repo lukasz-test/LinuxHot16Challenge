@@ -4,7 +4,7 @@
 # HOT 16
 
 # 1. komenda
-# Opis... - poprawiam33333.
+# Opis... - poprawiam33333333.
 
 # 2. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
